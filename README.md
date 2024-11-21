@@ -1,4 +1,3 @@
 ## Howdy
-- I’m currently working on SideStore and emulation.
+- I’m currently working on SideStore and learning emulation for various projects.
 - I’m currently learning Swift, Python, C, and low level assembly.
-- Pronouns: she/her
